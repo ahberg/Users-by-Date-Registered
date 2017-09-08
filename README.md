@@ -1,7 +1,5 @@
 # Users by Date Registered
 
 Displays a new column displaying the date the user registered and allows you to filter the users by date.
+This is an improved versoin of https://github.com/seb86/Users-by-Date-Registered that dont't break the search user functionality.  
 
-### Show some support
-
-If you use this plugin and you find it useful please consider [donating](https://sebastiendumont.com/product/users-date-registered/) as a sign of appreciation. Thank you.
